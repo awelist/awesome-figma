@@ -33,10 +33,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Autoflow](https://www.figma.com/community/plugin/733025261168520714/Autoflow) – Automatically connect objects with lines.
 - [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel) – Pull text strings, images, and icons into your designs.
-- [Figmify](https://www.figma.com/community/plugin/747985116641974349/Figmify) – Generate beautiful UI kits.
-- [Iconify](https://www.figma.com/community/plugin/733098390272716381/Iconify) – Import over 100,000 icons directly into your Figma project.
 - [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) – Create and customize illustrations.
-- [Charts](https://www.figma.com/community/plugin/734361163286024320/Charts) – Add editable charts and graphs.
 
 ## Templates
 
@@ -46,31 +43,25 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
   
 ## UI Kits & Design Systems
 
-- [Material Design UI Kit](https://www.figma.com/community/file/827480300240973612/Material-Design-UI-Kit) – Google’s Material Design system.
 - [Apple UI Kit](https://www.figma.com/community/file/1035203688168086460/iOS-16-UI-Kit-%E2%80%94-iPhone-14-Pro) – iOS design elements.
-- [Eva Design System](https://www.figma.com/community/file/767503759972057451/Eva-Design-System) – Design system for React Native and Web.
 
 ## Tools & Extensions
 
 - [FigJam](https://www.figma.com/figjam/) – Online whiteboard for brainstorming and workshops.
 - [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) – Manage design tokens inside Figma.
-- [Design Lint](https://www.figma.com/community/plugin/801080401028363232/Design-Lint) – Find and fix design inconsistencies.
-- [Themer](https://www.figma.com/community/plugin/778019280314046260/Themer) – Apply theme styles to Figma files.
 
 ## Icons & Illustrations
 
-- [Feather Icons](https://www.figma.com/community/file/747985438961161323/Feather-Icons) – Simple, clean icons.
 - [Streamline Icons](https://www.streamlinehq.com/) – Thousands of customizable vector icons.
-- [Humaaans](https://www.figma.com/community/file/884002884741180470/Humaaans-Library) – Illustrated people library.
 - [unDraw](https://undraw.co/illustrations) – Open-source illustrations.
 
 ## Learning Resources
 
 - [Figma Help Center](https://help.figma.com/) – Official documentation.
-- [Figma Learn](https://www.figma.com/learn/) – Beginner-to-advanced learning guides.
 - [DesignCode](https://designcode.io/figma) – Learn Figma with UI design projects.
 - [Figma Crash Course](https://www.youtube.com/watch?v=FTFaQWZBqQ8) – YouTube tutorial by freeCodeCamp.
-- [Kevin Powell’s Figma for Devs](https://www.youtube.com/watch?v=V6jGgEZVZuo) – Learn Figma from a front-end perspective.
+- [Kevin Powell’s Figma for Devs](https://www.youtube.com/watch?v=V6jGgEZVZuo) – Learn Figma from a front-end perspective. -
+-  [Swavent Guides](https://swavent.com/en/guides) — Free Shopify, ecommerce, SEO and web development guides.
 
 ## Communities
 
